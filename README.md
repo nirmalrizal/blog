@@ -1,1 +1,3 @@
-# Personal blog & random stuffs
+# blog
+
+https://nirmalrizal.com.np
