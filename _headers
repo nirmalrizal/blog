@@ -1,0 +1,37 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/offline-plugin-app-shell-fallback/
+  Link: </webpack-runtime-16ff267ce6fd20f2f314.js>; rel=preload; as=script
+  Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-7e1e5d87c87c3dd4815e.js>; rel=preload; as=script
+/404
+  Link: </webpack-runtime-16ff267ce6fd20f2f314.js>; rel=preload; as=script
+  Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
+/tags
+  Link: </webpack-runtime-16ff267ce6fd20f2f314.js>; rel=preload; as=script
+  Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
+/categories
+  Link: </webpack-runtime-16ff267ce6fd20f2f314.js>; rel=preload; as=script
+  Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
+/pages/about/
+  Link: </webpack-runtime-16ff267ce6fd20f2f314.js>; rel=preload; as=script
+  Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
+/posts/hello-world
+  Link: </webpack-runtime-16ff267ce6fd20f2f314.js>; rel=preload; as=script
+  Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
+/tag/hello-world
+  Link: </webpack-runtime-16ff267ce6fd20f2f314.js>; rel=preload; as=script
+  Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
+/category/hello-world
+  Link: </webpack-runtime-16ff267ce6fd20f2f314.js>; rel=preload; as=script
+  Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
+/
+  Link: </webpack-runtime-16ff267ce6fd20f2f314.js>; rel=preload; as=script
+  Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
